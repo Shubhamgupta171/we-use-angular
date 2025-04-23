@@ -158,5 +158,16 @@
     ],
     "careerSite": "https://techholding.co/careers",
     "workMode": "On-Site"
+  },
+  {
+    "name": "Quest Global",
+    "techStack": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "REST APIs"
+    ],
+    "careerSite": "https://careers.quest-global.com/global/en",
+    "workMode": "On-Site"
   }
 ]
