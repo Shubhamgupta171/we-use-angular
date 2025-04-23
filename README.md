@@ -112,6 +112,12 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://techholding.co/careers
 - **Work Mode**: On-Site
 
+  ###  **Quest Global**
+- **Tech Stack**: Angular, TypeScript,RxJS,REST APIs
+- **Career Site**: https://careers.quest-global.com/global/en
+- **Work Mode**: On-Site
+  
+
 
 ## ✨ How to contribute
 
